@@ -1,1 +1,1 @@
-// code will not run without live server extension in vscode
+Free-to-Play Games Viewer is designed to provide users with an easy way to explore a wide range of free-to-play games. Users can browse games by category, view detailed information about each game, and navigate seamlessly between the games list and individual game details. Using HTML, CSS, BootStrap, Javascript
